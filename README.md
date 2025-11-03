@@ -22,6 +22,28 @@ The project involved building the new website for La Nación Radio with a modern
 
 ---
 
+## 📸 Showcase
+
+### 🏠 Home
+
+![Home](./assets/gifs/Home.gif)
+
+### 👤 About Us
+
+![About Us](./assets/screenshots/pages/About%20Us.png)
+
+### 📰 Articles
+
+![Articles](./assets/screenshots/articles/Articles.png)
+![Article](./assets/screenshots/articles/Article.png)
+
+### 🎙 Podcasts
+
+![Podcasts](./assets/screenshots/podcasts/Podcasts.png)
+![Podcast](./assets/screenshots/podcasts/Podcast.png)
+
+---
+
 ## 🛠️ Tech Stack
 
 - **Platform:** WordPress
@@ -30,12 +52,6 @@ The project involved building the new website for La Nación Radio with a modern
 - **Custom Fields:** Advanced Custom Fields (ACF)
 - **Frontend:** Elementor Templates, HTML5, CSS3, JavaScript
 - **Media:** Embedded Radio Player
-
----
-
-## 📸 Showcase
-
-_(Screenshots, GIFs or demo videos will be added here)_
 
 ---
 

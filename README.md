@@ -34,12 +34,22 @@ The project involved building the new website for La Nación Radio with a modern
 
 ### 📰 Articles
 
+#### Archive
+
 ![Articles](./assets/screenshots/articles/Articles.png)
+
+#### Single Post
+
 ![Article](./assets/screenshots/articles/Article.png)
 
 ### 🎙 Podcasts
 
+#### Archive
+
 ![Podcasts](./assets/screenshots/podcasts/Podcasts.png)
+
+#### Single Post
+
 ![Podcast](./assets/screenshots/podcasts/Podcast.png)
 
 ---
